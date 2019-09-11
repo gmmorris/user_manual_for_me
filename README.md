@@ -7,7 +7,7 @@ A User Manual for working with me.
 I work most effectively when I have some form of white noise.
 Buzzing well-lit offices or coffee shops suit me well, while quiet dark rooms actually make it harder for me to slip into deep work.
 
-For this reason I usually work from the Elastic' London office.
+For this reason I usually work from the Elastic London office.
 
 ## The times/hours I like to work
 
@@ -50,7 +50,7 @@ I'm an introvert, and need time to recharge between conversations, but I'm also 
 
 If I don't understand the wider purpose behind why we are doing something, I find it hard to engage with it.
 
-I dislike Gatekeeping, and will always prefer to incur some discomfort by accepting something that's not my personal ideal, which can be addressed after letting something through the gate. This is true for hiring (do they seem positive but lack something we need? Lets bring them in and empower them to fill the gaps) and is true for work produced (Not sure about the specific implementation, but it doesn't cause harm? Lets integrate sooner and iterate on improving it, rather than reject that PR for the 5th day in a row.)
+I dislike Gatekeeping, and will always prefer to incur some discomfort by letting it through the gate, whenever it is something that can be addressed at a later point. This is true for hiring (They seem like a positive fit but lack something that we need? Lets bring them in and empower them to fill the gaps) and is equally true for the work we produce (Not sure about the specific implementation, but it doesn't cause imediate harm? Lets integrate sooner and iterate on improving it, rather than reject that PR for the 5th day in a row.)
 
 Organising team social things. I really struggle at this, please don't ask me to organise anything like that.
 
@@ -60,7 +60,7 @@ I love collaborating on things, be it brain storming sessions, pair programming 
 
 I like hearing about other people's challenges, it helps me get comfortable with my own, and gives me opportunities to share my own experience and ideas.
 
-I love teaching, mentor individuals externally of work, and am always open to taking on new mentees (time permitted).
+I love teaching, mentor individuals outside of the workplace, and am always open to taking on new mentees (time permitted).
 
 ## Other things to know about me
 
