@@ -50,7 +50,7 @@ I'm an introvert, and need time to recharge between conversations, but I'm also 
 
 If I don't understand the wider purpose behind why we are doing something, I find it hard to engage with it.
 
-I dislike Gatekeeping, and will always prefer to incur some discomfort by letting it through the gate, whenever it is something that can be addressed at a later point. This is true for hiring (They seem like a positive fit but lack something that we need? Lets bring them in and empower them to fill the gaps) and is equally true for the work we produce (Not sure about the specific implementation, but it doesn't cause imediate harm? Lets integrate sooner and iterate on improving it, rather than reject that PR for the 5th day in a row.)
+I dislike Gatekeeping, and will always prefer to incur some discomfort by letting it through the gate, whenever it is something that can be addressed at a later point. This is true for hiring (They seem like a positive fit but lack something that we need? Lets bring them in and empower them to fill the gaps) and is equally true for the work we produce.
 
 Organising team social things. I really struggle at this, please don't ask me to organise anything like that.
 
