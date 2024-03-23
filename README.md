@@ -23,7 +23,9 @@ Please don't hesitate to reach out at any time, as I'll put the phone on silent 
 I don't like answering my phone, as I'm often in spaces which are either too noisy for that or so quiet that my conversation would be _forced_ on those around me.
 I do read texts though, so SMS or WhatsApp are cool.
 
-I stay on top of my emails daily, so for anything non-urgent, feel confident that your email will get a reply within a workday or so.
+I stay on top of my emails/Wrike/Coda inboxes daily, so for anything non-urgent, feel confident that your communication will get a reply within a workday or so (if a reply is required). If I fail to reply, do not hesitate to nudge me, I won't take offence and I will clarify if I need morer time before I can response properly.
+
+I prefer to optimise time in meetings for bursts of collaboration, so I will often ask folks to lean into asynchronous communication as much as possible. This allows me to digest information before the meeting and be ready with feedback and questions.
 
 ## The ways I like to receive feedback
 
