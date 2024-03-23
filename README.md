@@ -7,7 +7,7 @@ A User Manual for working with me.
 I work most effectively when I have some form of white noise.
 Buzzing well-lit offices or coffee shops suit me well, while quiet dark rooms actually make it harder for me to slip into deep work.
 
-For this reason I usually work from the Elastic London office.
+For this reason I often work from the our London co-working space.
 
 ## The times/hours I like to work
 
