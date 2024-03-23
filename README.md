@@ -11,7 +11,7 @@ For this reason I usually work from the Elastic London office.
 
 ## The times/hours I like to work
 
-I'm a morning person and aim to be begin working some time between 7:00 and 7:30, whether from home or from my preferred location outside of home.
+I'm a morning person and aim to be begin working some time between 7:30 and 8:30, whether from home or from my preferred location outside of home.
 
 I'm often active in the evenings, so usually call it a day by 17:00-18:00.
 
